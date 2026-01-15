@@ -678,7 +678,7 @@ python analyze_parameters.py
 **Marek Marszałek**  
 **Mateusz Bierowiec**
 
-UWyższa Szkoła Zarządzania i Bankowości w Krakowie  
+Wyższa Szkoła Zarządzania i Bankowości w Krakowie  
 Styczeń 2026
 
 ---
