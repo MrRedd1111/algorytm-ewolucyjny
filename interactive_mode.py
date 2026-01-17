@@ -14,7 +14,7 @@ from drone_path_optimization import (
 
 
 def input_integer(prompt, default=None):
-    """Wczytaj liczbę całkowitą"""
+    """Podaj liczbę całkowitą"""
     while True:
         try:
             val = input(prompt)
@@ -26,7 +26,7 @@ def input_integer(prompt, default=None):
 
 
 def input_float(prompt, default=None):
-    """Wczytaj liczbę zmiennoprzecinkową"""
+    """Podaj liczbę zmiennoprzecinkową"""
     while True:
         try:
             val = input(prompt)
