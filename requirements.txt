@@ -1,3 +1,4 @@
+## Wymagane wersje programów aby algorytm poprawnie działał ###
 deap==1.4.1
 numpy==1.24.3
 matplotlib==3.7.1
