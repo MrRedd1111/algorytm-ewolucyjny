@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Optymalizacja trasy drona przy pomocy algorytmu genetycznego.
-Projekt dla WSZIB.
+Projekt dla WSZIB-u.
 
 Autorzy: Marek Marszałek, Mateusz Bierowiec
 Data: 2026-01-15
@@ -514,7 +514,7 @@ def main():
         # Zapisz wyniki
         save_results(results)
 
-        print("\n✓ Algorytm zakończony pomyślnie!")
+        print("\n✓ Algorytm zakończonył pracę pomyślnie!")
 
     except Exception as e:
         print(f"\n✗ Błąd: {str(e)}")
