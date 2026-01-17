@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Szybki test algorytmu - dla weryfikacji instalacji
-Wersja uproszczona do testowania bez wizualizacji
+Szybki test algorytmu - do zweryfikowania instalacji
+Wersja uproszczona do przetestowania bez wizualizacji
 """
 
 import sys
@@ -18,9 +18,9 @@ from drone_path_optimization import (
 def quick_test():
     """Uruchamia szybki test z mniejszymi parametrami"""
 
-    print("╔════════════════════════════════════════════════════════════╗")
-    print("║         SZYBKI TEST - ALGORYTM GENETYCZNY                  ║")
-    print("╚════════════════════════════════════════════════════════════╝\n")
+    print("╔═══════════════════════════════════════════════════════════════╗")
+    print("║         SZYBKI TEST - ALGORYTMU GENETYCZNEGO                  ║")
+    print("╚═══════════════════════════════════════════════════════════════╝\n")
 
     print("Parametry testu:")
     print("  - Populacja: 50 osobników")
@@ -43,7 +43,7 @@ def quick_test():
     dpo.GENERATIONS = 50
 
     try:
-        # Uruchom algorytm
+        # Uruchomia algorytm
         results = run_algorithm()
 
         print(" ✓\n")
