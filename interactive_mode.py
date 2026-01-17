@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Mode interaktywny - dostosuj parametry i uruchom algorytm
+Tryb interaktywny - ustal parametry i uruchom algorytm
 """
 
 import numpy as np
