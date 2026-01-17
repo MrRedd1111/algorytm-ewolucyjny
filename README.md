@@ -1,3 +1,6 @@
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_gcnew4gcnew4gcne" src="https://github.com/user-attachments/assets/a975db3c-1dd7-4eab-a040-eb2c78091248" />
+
 # 🚁 Optymalizacja Trasy Drona - Algorytmy Ewolucyjne
 
 **Projekt akademicki:** Implementacja i porównanie zaawansowanych algorytmów optymalizacji dla problemu znajdowania optymalnej trasy drona w obecności przeszkód.
