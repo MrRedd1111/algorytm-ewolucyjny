@@ -680,5 +680,6 @@ python analyze_parameters.py
 
 Wyższa Szkoła Zarządzania i Bankowości w Krakowie  
 Styczeń 2026
+Czas pracy nad algorytmem: Październik 2025 - Styczeń 2026
 
 ---
